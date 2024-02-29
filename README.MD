@@ -1,9 +1,7 @@
-![image](/assets/Design_a_logo_for_the_GitHub_repository_named__rn_.ico)
-
 # React Native TypeScript Boilerplate
+![image](/assets/DALL·E%202024-02-29%2000.38.52%20-%20Create%20an%20illustration%20for%20a%20GitHub%20repository%20named%20_rn_ts_boilerplate_.%20The%20illustration%20should%20visually%20represent%20a%20foundational%20structure%20for%20a%20Re.webp?size=400x400)
 
 This project is a boilerplate for React Native with TypeScript, Navigation, and React Context hooks.
-![image](/assets/DALL·E%202024-02-29%2000.38.52%20-%20Create%20an%20illustration%20for%20a%20GitHub%20repository%20named%20_rn_ts_boilerplate_.%20The%20illustration%20should%20visually%20represent%20a%20foundational%20structure%20for%20a%20Re.webp)
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
